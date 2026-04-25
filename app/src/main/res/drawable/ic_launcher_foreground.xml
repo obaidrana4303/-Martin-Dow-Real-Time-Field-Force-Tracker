@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:translateX="14"
+        android:translateY="34"
+        android:scaleX="0.4"
+        android:scaleY="0.4">
+        
+        <!-- Wave of Dots (Martin Dow) -->
+        <path android:fillColor="#00458B" android:pathData="M30,15m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+        <path android:fillColor="#00458B" android:pathData="M45,18m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+        <path android:fillColor="#00458B" android:pathData="M58,22m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+        <path android:fillColor="#085BAA" android:pathData="M70,28m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+        <path android:fillColor="#0D6CC9" android:pathData="M80,35m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-2 0" />
+        <path android:fillColor="#00458B" android:pathData="M35,25m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+        <path android:fillColor="#00458B" android:pathData="M50,28m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+        <path android:fillColor="#00458B" android:pathData="M65,32m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-2 0" />
+
+        <!-- M -->
+        <path android:fillColor="#00458B" android:pathData="M10,75 L18,75 L18,55 L24,68 L30,55 L30,75 L38,75 L38,50 L30,50 L24,63 L18,50 L10,50 Z" />
+        <!-- a -->
+        <path android:fillColor="#00458B" android:pathData="M42,75 L52,75 L52,70 L48,70 L48,50 L42,50 Z" />
+        <!-- r -->
+        <path android:fillColor="#00458B" android:pathData="M56,75 L62,75 L62,65 A3,3 0 0 1 68,65 L68,55 L62,55 L62,50 L56,50 Z" />
+        <!-- t -->
+        <path android:fillColor="#00458B" android:pathData="M72,75 L78,75 L78,55 L84,55 L84,50 L66,50 L66,55 L72,55 Z" />
+        <!-- i -->
+        <path android:fillColor="#00458B" android:pathData="M88,75 L94,75 L94,55 L88,55 Z M88,50 L94,50 L94,45 L88,45 Z" />
+        <!-- n -->
+        <path android:fillColor="#00458B" android:pathData="M98,75 L104,75 L104,65 A3,3 0 0 1 110,65 L110,55 L104,55 L104,50 L98,50 Z" />
+        <!-- D -->
+        <path android:fillColor="#00458B" android:pathData="M125,75 A12,12 0 0 0 137,63 L137,50 L125,50 L125,55 L131,55 L131,63 A6,6 0 0 1 125,69 L125,75 Z" />
+        <!-- o -->
+        <path android:fillColor="#00458B" android:pathData="M142,65 A5,5 0 1 0 152,65 A5,5 0 1 0 142,65 M142,65 L142,75 L148,75 L148,65 Z" />
+        <!-- w -->
+        <path android:fillColor="#00458B" android:pathData="M158,75 L164,75 L168,65 L172,75 L178,75 L182,50 L176,50 L173,63 L169,50 L163,50 L160,63 L157,50 L151,50 Z" />
+    </group>
+
+</vector>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Martin Dow Brand Colors -->
+    <color name="brand_blue">#00458B</color>
+    <color name="brand_blue_dark">#003366</color>
+    <color name="brand_blue_light">#E0F2FE</color>
+
+    <!-- Material UI Palette -->
+    <color name="white">#FFFFFF</color>
+    <color name="surface_gray">#F1F5F9</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#4B5563</color>
+    <!-- Semantic Colors -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
